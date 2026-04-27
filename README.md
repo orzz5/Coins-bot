@@ -77,7 +77,6 @@ The bot stores coin data in a `coins.json` file in the same directory. This file
 
 ## Notes
 
-- The admin role ID is set to `1485667541631242251` by default, but can be changed in the `.env` file
 - Coin balances cannot go below 0
 - All commands provide visual feedback with embedded messages
 - The bot will automatically sync slash commands when it starts
