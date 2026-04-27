@@ -77,6 +77,7 @@ The bot stores coin data in a `coins.json` file in the same directory. This file
 
 ## Notes
 
+- Change DISCORD_TOKEN= and ADMIN_ROLE_ID= from the .env
 - Coin balances cannot go below 0
 - All commands provide visual feedback with embedded messages
 - The bot will automatically sync slash commands when it starts
