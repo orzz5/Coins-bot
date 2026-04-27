@@ -42,7 +42,7 @@ pip install -r requirements.txt
 2. Fill in your bot token:
 ```
 DISCORD_TOKEN=your_actual_bot_token_here
-ADMIN_ROLE_ID=1485667541631242251
+ADMIN_ROLE_ID=
 ```
 
 ### 5. Run the Bot
@@ -52,7 +52,7 @@ python bot.py
 
 ## Commands
 
-### Admin Commands (Requires role ID: 1485667541631242251)
+### Admin Commands (Requires role ID: ADMIN_ROLE_ID)
 
 #### `/add_coins`
 - **user**: The user to add coins to (@mention)
